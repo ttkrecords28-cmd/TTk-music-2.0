@@ -1,0 +1,6 @@
+{
+  "name": "TTK Music",
+  "description": "High-craft glassmorphic music player with ambient lighting, dynamic song chroma themes, floating controls, synced lyrics, and AI music insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
